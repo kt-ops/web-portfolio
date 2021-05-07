@@ -703,7 +703,7 @@ p{
 @keyframes hero_text_ani3{
     100%{
         color:#0EBFE9;
-        font-weight: 500px;
+        font-weight: 500;
     }
 } 
 /*End of Animation*/
